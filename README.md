@@ -1,4 +1,4 @@
-# GPU_VideoEdit - FFMPEG Scripts to edit videos while using GPU only.
+# GPU_VideoEdit  (FFMPEG Scripts For Video Editing)
 Want to merge your videos but video editor takes forever on old pc ? this is for you use only your GPU. Fast and easy.
 
 I done video editing before for some videos but i hate you need strong CPU for video editing on Windows.My only two options was either 100% crank up my CPU or install linux and use GPU encodig. Video editing on Windows is very limited on GPU (not free as well) so this is the third alternative.
